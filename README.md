@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vishal, a rising junior studying Computer Science at the University of California, Riverside
+- 👋 Hi, I’m Vishal, a junior studying Computer Science at UC Riverside
 - 👀 I’m interested in Software & Data Engineering.
 - 🌱 I’m currently learning Python, SQL, HTML, CSS, and JavaScript!
 - 📫 How to reach me: You can email me @ vmeno003@ucr.edu or connect with me on LinkedIn! (https://www.linkedin.com/in/vishal-m-b27a2a133)
