@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vishal, a graduate studying Data Science at USC
+- 👋 Hi, I’m Vishal, a graduate student studying Data Science at USC
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently know Python, SQL, and R!
 - 📫 How to reach me: You can email me @ vishalme@usc.edu or connect with me on LinkedIn! (https://www.linkedin.com/in/vishal-m-b27a2a133)
